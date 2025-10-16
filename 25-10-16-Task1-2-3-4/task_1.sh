@@ -1,4 +1,4 @@
-echo -n "Enter the Number: "
+echo "Enter the Number: "
 read n
 
 r=$((n % 2))
