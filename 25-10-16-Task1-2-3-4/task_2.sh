@@ -1,4 +1,4 @@
-echo -n "Enter the year: "
+echo "Enter the year: "
 read y
 
 b=`expr $y % 4`
