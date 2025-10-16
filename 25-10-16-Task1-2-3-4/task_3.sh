@@ -1,4 +1,4 @@
-echo -n "Enter a Number: "
+echo "Enter a Number: "
 read n
 i=`expr $n - 1`
 p=1
